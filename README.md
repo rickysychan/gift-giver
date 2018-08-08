@@ -4,7 +4,7 @@ A simple test to demonstrate full unit testing coverage using Enzyme and Jest fo
 
 100% test coverage
 
-![This is the registration page](https://github.com/rickysychan/gift-giver/blob/master/imgs/app.png)
+![This is the registration page](https://github.com/rickysychan/gift-giver/blob/master/imgs/Coverage%20report.png)
 
 App front page
 
