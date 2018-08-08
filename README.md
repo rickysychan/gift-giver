@@ -1,8 +1,15 @@
-# React-scoreboard
+# Gift-Giver: Jest and Enzyme unit testing (100% coverage)
 
-A scoreboard built completely on React without the use of state management frameworks. Keeps score for events such as the 2018 FIFA World Cup and includes a timer and a stats component.
+A simple test to demonstrate full unit testing coverage using Enzyme and Jest for unit testing. The app creates and displays a list of gifts inputted by users
 
-![This is the registration page](https://github.com/rickysychan/React-scoreboard/blob/master/imgs/Screen%20Shot%202018-05-20%20at%2010.16.25%20PM.png)
+100% test coverage
+
+![This is the registration page](https://github.com/rickysychan/gift-giver/blob/master/imgs/app.png)
+
+App front page
+
+![This is the registration page](https://github.com/rickysychan/gift-giver/blob/master/imgs/app.png)
+
 
 ## How to Use
 
